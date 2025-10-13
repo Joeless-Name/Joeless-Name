@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Johannes Myburgh
 
-<!--
-**Joeless-Name/Joeless-Name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software & Multimedia Student @ CTU Training Solutions  
+💡 Passionate about combining creativity and code - from automation tools to interactive media.  
+💻 Focus: Python, C#, HTML/CSS/JS | Multimedia workflows, live broadcast tech, automation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Python, C#, HTML, CSS, JavaScript
+- **Game Engines:** Ren'Py, Unity
+- **Frameworks & Tools:** Flask, PySide6, OBS Studio, Photoshop, Premiere, Audition  
+- **Other Skills:** Video & Audio Editing, Live Streaming(Broadcasting), UI/UX Design  
+
+---
+
+### 🧩 Featured Projects
+- **Batch Image Processing Tool** - Python-based image automation app (resizing, renaming, spritesheets).
+- Discord Bot (WIP) - A bot to manage server events and provide custom commands as well as help with moderating.
+- **Marketing Design Portfolio** - College promotional visuals and posters.  
+- **Streaming Setup Helper** - OBS-based automation for event broadcasting (concept build).  
+
+---
+
+### 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/johannes-myburgh-113284366)  
+📫 Email: myburghj2020@gmail.com 
