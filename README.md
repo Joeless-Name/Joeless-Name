@@ -16,7 +16,7 @@
 
 ### 🧩 Featured Projects
 - **Batch Image Processing Tool** - Python-based image automation app (resizing, renaming, spritesheets).
-- Discord Bot (WIP) - A bot to manage server events and provide custom commands as well as help with moderating.
+- **Discord Bot (WIP)** - A bot to manage server events and provide custom commands as well as help with moderating.
 - **Marketing Design Portfolio** - College promotional visuals and posters.  
 - **Streaming Setup Helper** - OBS-based automation for event broadcasting (concept build).  
 
