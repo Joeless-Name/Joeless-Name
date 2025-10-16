@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Johannes Myburgh
 
-🎓 Software & Multimedia Student @ CTU Training Solutions  
+🎓 Software & Multimedia Student  
 💡 Passionate about combining creativity and code - from automation tools to interactive media.  
 💻 Focus: Python, C#, HTML/CSS/JS | Multimedia workflows, live broadcast tech, automation.  
 
